@@ -58,3 +58,7 @@ languages:
         name: Blog
         url: https://liang2kl.github.io/blog
         weight: 4
+
+services:
+  googleAnalytics:
+    ID: G-H3VNJBKHJZ
