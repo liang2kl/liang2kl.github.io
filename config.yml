@@ -1,0 +1,60 @@
+baseUrl: 'https://liang2kl.github.io'
+canonifyurls: true
+copyright: '© 2023 Yesheng Liang'
+languageCode: en-US
+theme: terminal
+paginate: 10
+enableGitInfo: true
+
+author:
+  name: Liang Yesheng
+  email: liang2kl@outlook.com
+
+params:
+  contentTypeName: posts
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor: blue
+  showMenuItems: 4
+  centerTheme: true
+  # showLastUpdated: false
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+defaultContentLanguage: en
+
+languages:
+  en:
+    languageName: English
+    title: Homepage
+    subtitle: Yesheng Liang
+    keywords: ''
+    menuMore: Show more
+    readMore: Read more
+    readOtherPosts: Read other posts
+
+    params:
+      logo:
+        logoText: "Yesheng Liang"
+        logoHomeLink: /
+
+    menu:
+      main:
+      - identifier: home
+        name: Home
+        url: /
+        weight: 1
+      - identifier: github
+        name: GitHub
+        url: https://github.com/liang2kl
+        weight: 2
+      - identifier: cv
+        name: CV
+        url: /cv.pdf
+        weight: 3
+      - identifier: blog
+        name: Blog
+        url: https://liang2kl.github.io/blog
+        weight: 4
