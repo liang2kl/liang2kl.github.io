@@ -85,8 +85,6 @@ B.Eng. in Computer Science and Technology
 
 </div>
 
-## Publications
-
-1. Qinbin Li, ***Yesheng Liang***, Yiqun Diao, Chulin Xie, Bo Li, Bingsheng He, Dawn Song, “Tree-as-a-Prompt: Towards Inte-gration of Large Language Models and Decision Trees for Relational Data”, in submission
+<!-- ## Publications -->
 
 <!-- # Interests -->
