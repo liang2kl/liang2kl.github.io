@@ -56,15 +56,6 @@ B.Eng. in Computer Science and Technology
 
 <div class="card">
 
-<big>**Intern**</big><br/>
-@ Qihoo 360
-
-- Vulnerability mining in IoT devices
-
-</div>
-
-<div class="card">
-
 <big>**Research Intern**</big><br/>
 @ Storage Research Group, Tsinghua University
 
