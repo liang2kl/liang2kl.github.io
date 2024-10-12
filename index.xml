@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homepage</title><link>https://liang2kl.github.io/</link><description>Recent content on Homepage</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><managingEditor>liang2kl@outlook.com (Liang Yesheng)</managingEditor><webMaster>liang2kl@outlook.com (Liang Yesheng)</webMaster><copyright>© 2023 Yesheng Liang</copyright><atom:link href="https://liang2kl.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Yesheng Liang</title><link>https://liang2kl.github.io/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>liang2kl@outlook.com (Liang Yesheng)</author><guid>https://liang2kl.github.io/</guid><description>About I am a fourth-year undergraduate at Tsinghua University, majoring in Computer Science. My current research interests lie in computer systems.
 Education Tsinghua University B.Eng. in Computer Science and Technology
 2019.8 - 2023.7 (expected) Experience Research Intern @ Xtra Computing Group, National University of Singapore
-Language models Federated learning Research Intern @ Storage Research Group, Tsinghua University
+Language models Federated learning Intern @ Qihoo 360
+Vulnerability mining in IoT devices Research Intern @ Storage Research Group, Tsinghua University
 User-Space scheduling in HTAP systems Research Intern @ Institute of Trustworthy Networks and Systems, Tsinghua University</description><content>&lt;h2 id="about">About&lt;/h2>
 &lt;p>I am a fourth-year undergraduate at Tsinghua University, majoring in Computer Science. My current research interests lie in &lt;strong>computer systems&lt;/strong>.&lt;/p>
 &lt;h2 id="education">Education&lt;/h2>
@@ -42,6 +43,13 @@ B.Eng. in Computer Science and Technology&lt;/p>
 &lt;li>Federated learning&lt;/li>
 &lt;/ul>
 &lt;!-- Advised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) -->
+&lt;/div>
+&lt;div class="card">
+&lt;p>&lt;big>&lt;strong>Intern&lt;/strong>&lt;/big>&lt;br/>
+@ Qihoo 360&lt;/p>
+&lt;ul>
+&lt;li>Vulnerability mining in IoT devices&lt;/li>
+&lt;/ul>
 &lt;/div>
 &lt;div class="card">
 &lt;p>&lt;big>&lt;strong>Research Intern&lt;/strong>&lt;/big>&lt;br/>
