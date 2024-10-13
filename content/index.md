@@ -6,7 +6,7 @@ title: Yesheng Liang
 
 I am Yesheng Liang (梁业升), a master student at [CSE, UC San Diego](https://cse.ucsd.edu). I received my Bachelor's degree in Computer Science and Technology from [Tsinghua University](https://www.tsinghua.edu.cn/en/). I like building interesting applications.
 
-If you’re curious about me beyond academics, feel free to explore the non-academic about page on my [blog](https://liang2kl.github.io/blog/about) as well as other posts (in Chinese).
+If you’re curious about me beyond academics, feel free to explore the non-academic about page on my [blog](https://liang2kl.github.io/blog/about) as well as other posts there (in Chinese).
 
 ## Education
 
@@ -86,7 +86,7 @@ An exhaustive list of all my noteworthy projects can be found on my [blog](https
 
 **Frameworks** <br/> UIKit & SwiftUI, React, Django, Flask, Gin
 
-**Tools** <br/> Git, LaTex, Docker, Make, CMake, Bazel
+**Tools** <br/> Git, LaTeX, Docker, Make, CMake, Bazel
 
 <style>
 .post {
