@@ -71,7 +71,7 @@ h2 {
 margin-top: 1.5em !important;
 margin-bottom: .5em !important;
 color: black;
-background-color: var(--accent);
+background-color: #23B0FF;
 display:inline-block;
 padding-left: 3em;
 padding-right: 0.1em;
