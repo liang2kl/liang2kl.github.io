@@ -41,13 +41,13 @@ If you’re curious about me beyond academics, feel free to explore the non-acad
 
 <!-- Advised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) -->
 
-<div class="dashed-line"></div>
+<!-- <div class="dashed-line"></div>
 
 **Intern**<br/>
 *@ Qihoo 360*
 
 - 2023.7
-- Vulnerability mining in IoT devices
+- Vulnerability mining in IoT devices -->
 
 <div class="dashed-line"></div>
 
