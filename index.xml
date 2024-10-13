@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homepage</title><link>https://liang2kl.github.io/</link><description>Recent content on Homepage</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><managingEditor>liang2kl@outlook.com (Liang Yesheng)</managingEditor><webMaster>liang2kl@outlook.com (Liang Yesheng)</webMaster><copyright>© 2023 Yesheng Liang</copyright><atom:link href="https://liang2kl.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Yesheng Liang</title><link>https://liang2kl.github.io/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>liang2kl@outlook.com (Liang Yesheng)</author><guid>https://liang2kl.github.io/</guid><description>I am Yesheng Liang (梁业升), a master student at CSE, UC San Diego. I received my Bachelor&amp;rsquo;s degree in Computer Science and Technology from Tsinghua University. I like building interesting applications.
-If you’re curious about me beyond academics, feel free to explore the non-academic about page on my blog as well as other posts (in Chinese).
+If you’re curious about me beyond academics, feel free to explore the non-academic about page on my blog as well as other posts there (in Chinese).
 Education Tsinghua University B.Eng. in Computer Science and Technology
 2019.8 - 2023.6 GPA: 3.</description><content>&lt;!-- ## About -->
 &lt;p>I am Yesheng Liang (梁业升), a master student at &lt;a href="https://cse.ucsd.edu">CSE, UC San Diego&lt;/a>. I received my Bachelor&amp;rsquo;s degree in Computer Science and Technology from &lt;a href="https://www.tsinghua.edu.cn/en/">Tsinghua University&lt;/a>. I like building interesting applications.&lt;/p>
-&lt;p>If you’re curious about me beyond academics, feel free to explore the non-academic about page on my &lt;a href="https://liang2kl.github.io/blog/about">blog&lt;/a> as well as other posts (in Chinese).&lt;/p>
+&lt;p>If you’re curious about me beyond academics, feel free to explore the non-academic about page on my &lt;a href="https://liang2kl.github.io/blog/about">blog&lt;/a> as well as other posts there (in Chinese).&lt;/p>
 &lt;h2 id="education">Education&lt;/h2>
 &lt;!-- &lt;div class="card"> -->
 &lt;p>&lt;strong>Tsinghua University&lt;/strong>&lt;br/>
@@ -61,7 +61,7 @@ An exhaustive list of all my noteworthy projects can be found on my [blog](https
 &lt;h2 id="skills">Skills&lt;/h2>
 &lt;p>&lt;strong>Programming Languages&lt;/strong> &lt;br/> C/C++, Python, Swift, Rust, Go, JavaScript, Bash, SQL, VHDL, SystemVerilog&lt;/p>
 &lt;p>&lt;strong>Frameworks&lt;/strong> &lt;br/> UIKit &amp;amp; SwiftUI, React, Django, Flask, Gin&lt;/p>
-&lt;p>&lt;strong>Tools&lt;/strong> &lt;br/> Git, LaTex, Docker, Make, CMake, Bazel&lt;/p>
+&lt;p>&lt;strong>Tools&lt;/strong> &lt;br/> Git, LaTeX, Docker, Make, CMake, Bazel&lt;/p>
 &lt;style>
 .post {
 padding-top: 0 !important;
