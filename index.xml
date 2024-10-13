@@ -1,23 +1,92 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homepage</title><link>https://liang2kl.github.io/</link><description>Recent content on Homepage</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><managingEditor>liang2kl@outlook.com (Liang Yesheng)</managingEditor><webMaster>liang2kl@outlook.com (Liang Yesheng)</webMaster><copyright>© 2023 Yesheng Liang</copyright><atom:link href="https://liang2kl.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Yesheng Liang</title><link>https://liang2kl.github.io/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>liang2kl@outlook.com (Liang Yesheng)</author><guid>https://liang2kl.github.io/</guid><description>About I am a fourth-year undergraduate at Tsinghua University, majoring in Computer Science. My current research interests lie in computer systems.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homepage</title><link>https://liang2kl.github.io/</link><description>Recent content on Homepage</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><managingEditor>liang2kl@outlook.com (Liang Yesheng)</managingEditor><webMaster>liang2kl@outlook.com (Liang Yesheng)</webMaster><copyright>© 2023 Yesheng Liang</copyright><atom:link href="https://liang2kl.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Yesheng Liang</title><link>https://liang2kl.github.io/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>liang2kl@outlook.com (Liang Yesheng)</author><guid>https://liang2kl.github.io/</guid><description>I am Yesheng Liang (梁业升), a master student at CSE, UC San Diego. I received my Bachelor&amp;rsquo;s degree in Computer Science and Technology from Tsinghua University. I like building interesting applications.
+If you’re curious about me beyond academics, feel free to explore the non-academic about page on my blog as well as other posts (in Chinese).
 Education Tsinghua University B.Eng. in Computer Science and Technology
-2019.8 - 2023.7 (expected) Experience Research Intern @ Xtra Computing Group, National University of Singapore
-Language models Federated learning Intern @ Qihoo 360
-Vulnerability mining in IoT devices Research Intern @ Storage Research Group, Tsinghua University
-User-Space scheduling in HTAP systems Research Intern @ Institute of Trustworthy Networks and Systems, Tsinghua University</description><content>&lt;h2 id="about">About&lt;/h2>
-&lt;p>I am a fourth-year undergraduate at Tsinghua University, majoring in Computer Science. My current research interests lie in &lt;strong>computer systems&lt;/strong>.&lt;/p>
+2019.8 - 2023.6 GPA: 3.</description><content>&lt;!-- ## About -->
+&lt;p>I am Yesheng Liang (梁业升), a master student at &lt;a href="https://cse.ucsd.edu">CSE, UC San Diego&lt;/a>. I received my Bachelor&amp;rsquo;s degree in Computer Science and Technology from &lt;a href="https://www.tsinghua.edu.cn/en/">Tsinghua University&lt;/a>. I like building interesting applications.&lt;/p>
+&lt;p>If you’re curious about me beyond academics, feel free to explore the non-academic about page on my &lt;a href="https://liang2kl.github.io/blog/about">blog&lt;/a> as well as other posts (in Chinese).&lt;/p>
 &lt;h2 id="education">Education&lt;/h2>
+&lt;!-- &lt;div class="card"> -->
+&lt;p>&lt;strong>Tsinghua University&lt;/strong>&lt;br/>
+&lt;em>B.Eng. in Computer Science and Technology&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>2019.8 - 2023.6&lt;/li>
+&lt;li>GPA: 3.75/4.0&lt;/li>
+&lt;/ul>
+&lt;div class="dashed-line">&lt;/div>
+&lt;p>&lt;strong>University of California, San Diego&lt;/strong>&lt;br/>
+&lt;em>Master in Computer Science and Technology&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>2024.9 - expected 2026&lt;/li>
+&lt;li>GPA: N/A&lt;/li>
+&lt;/ul>
+&lt;!-- &lt;/div> -->
+&lt;h2 id="experience">Experience&lt;/h2>
+&lt;!-- &lt;div class="card"> -->
+&lt;p>&lt;strong>Research Intern&lt;/strong>&lt;br/>
+&lt;em>@ Xtra Computing Group, National University of Singapore&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>2023.8 - 2024.1&lt;/li>
+&lt;li>Language models and prompting&lt;/li>
+&lt;li>Federated learning&lt;/li>
+&lt;/ul>
+&lt;!-- Advised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) -->
+&lt;div class="dashed-line">&lt;/div>
+&lt;p>&lt;strong>Intern&lt;/strong>&lt;br/>
+&lt;em>@ Qihoo 360&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>2023.7&lt;/li>
+&lt;li>Vulnerability mining in IoT devices&lt;/li>
+&lt;/ul>
+&lt;div class="dashed-line">&lt;/div>
+&lt;p>&lt;strong>Research Intern&lt;/strong>&lt;br/>
+&lt;em>@ Storage Research Group, Tsinghua University&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>2022.1 - 2023.3&lt;/li>
+&lt;li>User-Space scheduling in HTAP systems&lt;/li>
+&lt;/ul>
+&lt;!-- Advised by [Prof. Youyou Lu](https://storage.cs.tsinghua.edu.cn/~lu/) -->
+&lt;div class="dashed-line">&lt;/div>
+&lt;p>&lt;strong>Research Intern&lt;/strong>&lt;br/>
+&lt;em>@ Institute of Trustworthy Networks and Systems, Tsinghua University&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>2020.9 - 2021.3&lt;/li>
+&lt;li>Indoor positioning with Wi-Fi NICs&lt;/li>
+&lt;/ul>
+&lt;!-- Advised by [Prof. Jiliang Wang](http://tns.thss.tsinghua.edu.cn/~jiliang/) -->
+&lt;!-- &lt;/div> -->
+&lt;!-- ## Publications -->
+&lt;!-- # Interests -->
+&lt;!-- ## Selected Projects
+An exhaustive list of all my noteworthy projects can be found on my [blog](https://liang2kl.github.io/blog/about#项目). -->
+&lt;h2 id="skills">Skills&lt;/h2>
+&lt;p>&lt;strong>Programming Languages&lt;/strong> &lt;br/> C/C++, Python, Swift, Rust, Go, JavaScript, Bash, SQL, VHDL, SystemVerilog&lt;/p>
+&lt;p>&lt;strong>Frameworks&lt;/strong> &lt;br/> UIKit &amp;amp; SwiftUI, React, Django, Flask, Gin&lt;/p>
+&lt;p>&lt;strong>Tools&lt;/strong> &lt;br/> Git, LaTex, Docker, Make, CMake, Bazel&lt;/p>
 &lt;style>
 .post {
 padding-top: 0 !important;
 margin-top: 0 !important;
+}
+h2 {
+margin-top: 1.5em !important;
+margin-bottom: .5em !important;
+color: black;
+background-color: var(--accent);
+display:inline-block;
+padding-left: 3em;
+padding-right: 0.1em;
 }
 .card {
 padding: 20px;
 /* border-radius: 0.5em; */
 background-color: #00000044;
 /* margin-bottom: 1em; */
+/* margin-left: calc(25% - 25vw);
+margin-right: calc(25% - 25vw);
+padding-left: calc(25vw - 25%);
+padding-right: calc(25vw - 25%); */
 }
-.card > :last-child {
+/* .card > :last-child {
 margin-bottom: 0;
 }
 .card > :first-child {
@@ -26,46 +95,14 @@ margin-top: 0;
 .card:not(:last-child) {
 margin-bottom: 20px;
 }
-&lt;/style>
-&lt;div class="card">
-&lt;p>&lt;big>&lt;strong>Tsinghua University&lt;/strong>&lt;/big>&lt;br/>
-B.Eng. in Computer Science and Technology&lt;/p>
-&lt;ul>
-&lt;li>2019.8 - 2023.7 (expected)&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;h2 id="experience">Experience&lt;/h2>
-&lt;div class="card">
-&lt;p>&lt;big>&lt;strong>Research Intern&lt;/strong>&lt;/big>&lt;br/>
-@ Xtra Computing Group, National University of Singapore&lt;/p>
-&lt;ul>
-&lt;li>Language models&lt;/li>
-&lt;li>Federated learning&lt;/li>
-&lt;/ul>
-&lt;!-- Advised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) -->
-&lt;/div>
-&lt;div class="card">
-&lt;p>&lt;big>&lt;strong>Intern&lt;/strong>&lt;/big>&lt;br/>
-@ Qihoo 360&lt;/p>
-&lt;ul>
-&lt;li>Vulnerability mining in IoT devices&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;div class="card">
-&lt;p>&lt;big>&lt;strong>Research Intern&lt;/strong>&lt;/big>&lt;br/>
-@ Storage Research Group, Tsinghua University&lt;/p>
-&lt;ul>
-&lt;li>User-Space scheduling in HTAP systems&lt;/li>
-&lt;/ul>
-&lt;!-- Advised by [Prof. Youyou Lu](https://storage.cs.tsinghua.edu.cn/~lu/) -->
-&lt;/div>
-&lt;div class="card">
-&lt;p>&lt;big>&lt;strong>Research Intern&lt;/strong>&lt;/big>&lt;br/>
-@ Institute of Trustworthy Networks and Systems, Tsinghua University&lt;/p>
-&lt;ul>
-&lt;li>Indoor positioning with Wi-Fi NICs&lt;/li>
-&lt;/ul>
-&lt;!-- Advised by [Prof. Jiliang Wang](http://tns.thss.tsinghua.edu.cn/~jiliang/) -->
-&lt;/div>
-&lt;!-- ## Publications -->
-&lt;!-- # Interests --></content></item></channel></rss>
+.card > p {
+margin-bottom: 0;
+} */
+.dashed-line {
+position: relative;
+border-bottom: 2px dashed #ffffff33; /* dashed line */
+}
+.hanchor {
+display: none;
+}
+&lt;/style></content></item></channel></rss>
