@@ -21,7 +21,7 @@ If you’re curious about me beyond academics, feel free to explore the non-acad
 <div class="dashed-line"></div>
 
 **University of California, San Diego**<br/>
-*Master in Computer Science and Technology*
+*Master in Computer Science and Engineering*
 
 - 2024.9 - expected 2026
 - GPA: N/A
@@ -55,7 +55,7 @@ If you’re curious about me beyond academics, feel free to explore the non-acad
 *@ Storage Research Group, Tsinghua University*
 
 - 2022.1 - 2023.3
-- User-Space scheduling in HTAP systems
+- User-space scheduling in HTAP systems
 
 <!-- Advised by [Prof. Youyou Lu](https://storage.cs.tsinghua.edu.cn/~lu/) -->
 
