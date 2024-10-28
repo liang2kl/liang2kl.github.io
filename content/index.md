@@ -82,7 +82,7 @@ An exhaustive list of all my noteworthy projects can be found on my [blog](https
 
 ## Skills
 
-**Programming Languages** <br/> C/C++, Python, Swift, Rust, Go, JavaScript, Bash, SQL, VHDL, SystemVerilog
+**Programming Languages** <br/> C/C++, Python, Swift, Rust, Go, TypeScript, JavaScript, Bash, SQL, VHDL, SystemVerilog
 
 **Frameworks** <br/> UIKit & SwiftUI, React, Django, Flask, Gin
 
