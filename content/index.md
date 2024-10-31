@@ -15,7 +15,7 @@ If you’re curious about me beyond academics, feel free to explore the non-acad
 **Tsinghua University**<br/>
 *B.Eng. in Computer Science and Technology*
 
-- 2019.8 - 2023.6
+- 2019.8 - 2024.6
 - GPA: 3.75/4.0
 
 <div class="dashed-line"></div>
