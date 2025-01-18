@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homepage</title><link>https://liang2kl.github.io/</link><description>Recent content on Homepage</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><managingEditor>liang2kl@outlook.com (Liang Yesheng)</managingEditor><webMaster>liang2kl@outlook.com (Liang Yesheng)</webMaster><copyright>© 2023 Yesheng Liang</copyright><atom:link href="https://liang2kl.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Yesheng Liang</title><link>https://liang2kl.github.io/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>liang2kl@outlook.com (Liang Yesheng)</author><guid>https://liang2kl.github.io/</guid><description>I am Yesheng Liang (梁业升), a master student at CSE, UC San Diego. I received my Bachelor&amp;rsquo;s degree in Computer Science and Technology from Tsinghua University. I like building interesting applications, as well as the lower-level systems that support them.
 If you’re curious about me beyond academics, feel free to explore the non-academic about page on my blog as well as other posts there (in Chinese).
-Education Tsinghua University B.</description><content>&lt;!-- ## About -->
+Education University of California, San Diego Master in Computer Science and Engineering</description><content>&lt;!-- ## About -->
 &lt;p>I am Yesheng Liang (梁业升), a master student at &lt;a href="https://cse.ucsd.edu">CSE, UC San Diego&lt;/a>. I received my Bachelor&amp;rsquo;s degree in Computer Science and Technology from &lt;a href="https://www.tsinghua.edu.cn/en/">Tsinghua University&lt;/a>. I like building interesting applications, as well as the lower-level systems that support them.&lt;/p>
 &lt;p>If you’re curious about me beyond academics, feel free to explore the non-academic about page on my &lt;a href="https://liang2kl.github.io/blog/about">blog&lt;/a> as well as other posts there (in Chinese).&lt;/p>
 &lt;h2 id="education">Education&lt;/h2>
 &lt;!-- &lt;div class="card"> -->
+&lt;p>&lt;strong>University of California, San Diego&lt;/strong>&lt;br/>
+&lt;em>Master in Computer Science and Engineering&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>2024.9 - expected 2026&lt;/li>
+&lt;li>GPA: 4.0/4.0&lt;/li>
+&lt;/ul>
+&lt;div class="dashed-line">&lt;/div>
 &lt;p>&lt;strong>Tsinghua University&lt;/strong>&lt;br/>
 &lt;em>B.Eng. in Computer Science and Technology&lt;/em>&lt;/p>
 &lt;ul>
 &lt;li>2019.8 - 2024.6&lt;/li>
 &lt;li>GPA: 3.75/4.0&lt;/li>
-&lt;/ul>
-&lt;div class="dashed-line">&lt;/div>
-&lt;p>&lt;strong>University of California, San Diego&lt;/strong>&lt;br/>
-&lt;em>Master in Computer Science and Engineering&lt;/em>&lt;/p>
-&lt;ul>
-&lt;li>2024.9 - expected 2026&lt;/li>
-&lt;li>GPA: N/A&lt;/li>
 &lt;/ul>
 &lt;!-- &lt;/div> -->
 &lt;h2 id="experience">Experience&lt;/h2>
