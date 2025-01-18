@@ -56,8 +56,8 @@ Education University of California, San Diego Master in Computer Science and Eng
 &lt;!-- ## Selected Projects
 An exhaustive list of all my noteworthy projects can be found on my [blog](https://liang2kl.github.io/blog/about#项目). -->
 &lt;h2 id="skills">Skills&lt;/h2>
-&lt;p>&lt;strong>Programming Languages&lt;/strong> &lt;br/> C/C++, Python, Swift, Rust, Go, TypeScript, JavaScript, Bash, SQL, VHDL, SystemVerilog&lt;/p>
-&lt;p>&lt;strong>Frameworks&lt;/strong> &lt;br/> UIKit &amp;amp; SwiftUI, React, Django, Flask, Gin&lt;/p>
+&lt;p>&lt;strong>Programming Languages&lt;/strong> &lt;br/> C/C++, CUDA, Python, Swift, Rust, Go, TypeScript, JavaScript, Bash, SQL, VHDL, SystemVerilog&lt;/p>
+&lt;p>&lt;strong>Frameworks&lt;/strong> &lt;br/> PyTorch, UIKit, SwiftUI, React, Django, Flask, Gin&lt;/p>
 &lt;p>&lt;strong>Tools&lt;/strong> &lt;br/> Git, LaTeX, Docker, Make, CMake, Bazel&lt;/p>
 &lt;style>
 .post {
