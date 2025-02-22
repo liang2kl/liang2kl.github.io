@@ -1,5 +1,6 @@
 ---
 title: Yesheng Liang
+description: "I am Yesheng Liang (梁业升), a master student at CSE, UC San Diego. I received my Bachelor's degree in Computer Science and Technology from Tsinghua University."
 ---
 
 <!-- ## About -->
