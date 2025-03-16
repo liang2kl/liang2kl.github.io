@@ -7,20 +7,21 @@ Education University of California, San Diego Master in Computer Science and Eng
 &lt;!-- &lt;div class="card"> -->
 &lt;p>&lt;strong>University of California, San Diego&lt;/strong>&lt;br/>
 &lt;em>Master in Computer Science and Engineering&lt;/em>&lt;/p>
-&lt;ul>
-&lt;li>2024.9 - expected 2026&lt;/li>
-&lt;li>GPA: 4.0/4.0&lt;/li>
-&lt;/ul>
+&lt;p>2024.9 - expected 2026&lt;/p>
 &lt;div class="dashed-line">&lt;/div>
 &lt;p>&lt;strong>Tsinghua University&lt;/strong>&lt;br/>
 &lt;em>B.Eng. in Computer Science and Technology&lt;/em>&lt;/p>
-&lt;ul>
-&lt;li>2019.8 - 2024.6&lt;/li>
-&lt;li>GPA: 3.75/4.0&lt;/li>
-&lt;/ul>
+&lt;p>2019.8 - 2024.6&lt;/p>
 &lt;!-- &lt;/div> -->
 &lt;h2 id="experience">Experience&lt;/h2>
 &lt;!-- &lt;div class="card"> -->
+&lt;p>&lt;strong>Research Intern&lt;/strong>&lt;br/>
+&lt;em>@ UC San Diego&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>2025.2 - now&lt;/li>
+&lt;li>Efficient machine learning&lt;/li>
+&lt;/ul>
+&lt;div class="dashed-line">&lt;/div>
 &lt;p>&lt;strong>Research Intern&lt;/strong>&lt;br/>
 &lt;em>@ Xtra Computing Group, National University of Singapore&lt;/em>&lt;/p>
 &lt;ul>
