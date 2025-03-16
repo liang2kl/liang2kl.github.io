@@ -15,22 +15,28 @@ If you’re curious about me beyond academics, feel free to explore the non-acad
 **University of California, San Diego**<br/>
 *Master in Computer Science and Engineering*
 
-- 2024.9 - expected 2026
-- GPA: 4.0/4.0
+2024.9 - expected 2026
 
 <div class="dashed-line"></div>
 
 **Tsinghua University**<br/>
 *B.Eng. in Computer Science and Technology*
 
-- 2019.8 - 2024.6
-- GPA: 3.75/4.0
+2019.8 - 2024.6
 
 <!-- </div> -->
 
 ## Experience
 
 <!-- <div class="card"> -->
+
+**Research Intern**<br/>
+*@ UC San Diego*
+
+- 2025.2 - now
+- Efficient machine learning
+
+<div class="dashed-line"></div>
 
 **Research Intern**<br/>
 *@ Xtra Computing Group, National University of Singapore*
