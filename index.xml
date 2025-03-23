@@ -23,7 +23,7 @@ Education University of California, San Diego Master in Computer Science and Eng
 &lt;/ul>
 &lt;div class="dashed-line">&lt;/div>
 &lt;p>&lt;strong>Research Intern&lt;/strong>&lt;br/>
-&lt;em>@ Xtra Computing Group, National University of Singapore&lt;/em>&lt;/p>
+&lt;em>@ &lt;a href="https://github.com/Xtra-Computing">Xtra Computing Group&lt;/a>, National University of Singapore&lt;/em>&lt;/p>
 &lt;ul>
 &lt;li>2023.8 - 2024.1&lt;/li>
 &lt;li>Language models and prompting&lt;/li>
@@ -37,19 +37,17 @@ Education University of California, San Diego Master in Computer Science and Eng
 - Vulnerability mining in IoT devices -->
 &lt;div class="dashed-line">&lt;/div>
 &lt;p>&lt;strong>Research Intern&lt;/strong>&lt;br/>
-&lt;em>@ Storage Research Group, Tsinghua University&lt;/em>&lt;/p>
+&lt;em>@ &lt;a href="https://storage.cs.tsinghua.edu.cn">Storage Research Group&lt;/a>, Tsinghua University&lt;/em>&lt;/p>
 &lt;ul>
 &lt;li>2022.1 - 2023.3&lt;/li>
 &lt;li>User-space scheduling in HTAP systems&lt;/li>
 &lt;/ul>
 &lt;!-- Advised by [Prof. Youyou Lu](https://storage.cs.tsinghua.edu.cn/~lu/) -->
-&lt;div class="dashed-line">&lt;/div>
-&lt;p>&lt;strong>Research Intern&lt;/strong>&lt;br/>
-&lt;em>@ Institute of Trustworthy Networks and Systems, Tsinghua University&lt;/em>&lt;/p>
-&lt;ul>
-&lt;li>2020.9 - 2021.3&lt;/li>
-&lt;li>Indoor positioning with Wi-Fi NICs&lt;/li>
-&lt;/ul>
+&lt;!-- &lt;div class="dashed-line">&lt;/div>
+**Research Intern**&lt;br/>
+*@ Institute of Trustworthy Networks and Systems, Tsinghua University*
+- 2020.9 - 2021.3
+- Indoor positioning with Wi-Fi NICs -->
 &lt;!-- Advised by [Prof. Jiliang Wang](http://tns.thss.tsinghua.edu.cn/~jiliang/) -->
 &lt;!-- &lt;/div> -->
 &lt;!-- ## Publications -->
