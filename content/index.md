@@ -39,7 +39,7 @@ If you’re curious about me beyond academics, feel free to explore the non-acad
 <div class="dashed-line"></div>
 
 **Research Intern**<br/>
-*@ Xtra Computing Group, National University of Singapore*
+*@ [Xtra Computing Group](https://github.com/Xtra-Computing), National University of Singapore*
 
 - 2023.8 - 2024.1
 - Language models and prompting
@@ -58,20 +58,20 @@ If you’re curious about me beyond academics, feel free to explore the non-acad
 <div class="dashed-line"></div>
 
 **Research Intern**<br/>
-*@ Storage Research Group, Tsinghua University*
+*@ [Storage Research Group](https://storage.cs.tsinghua.edu.cn), Tsinghua University*
 
 - 2022.1 - 2023.3
 - User-space scheduling in HTAP systems
 
 <!-- Advised by [Prof. Youyou Lu](https://storage.cs.tsinghua.edu.cn/~lu/) -->
 
-<div class="dashed-line"></div>
+<!-- <div class="dashed-line"></div>
 
 **Research Intern**<br/>
 *@ Institute of Trustworthy Networks and Systems, Tsinghua University*
 
 - 2020.9 - 2021.3
-- Indoor positioning with Wi-Fi NICs
+- Indoor positioning with Wi-Fi NICs -->
 
 <!-- Advised by [Prof. Jiliang Wang](http://tns.thss.tsinghua.edu.cn/~jiliang/) -->
 
