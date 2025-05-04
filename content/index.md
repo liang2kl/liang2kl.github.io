@@ -31,7 +31,7 @@ If you’re curious about me beyond academics, feel free to explore my [blog](ht
 <!-- <div class="card"> -->
 
 **Research Intern**<br/>
-*@ UC San Diego*
+*@ [Z Lab](https://z-lab.ai) UC San Diego*
 
 - 2025.2 - now
 - Efficient machine learning
@@ -39,7 +39,7 @@ If you’re curious about me beyond academics, feel free to explore my [blog](ht
 <div class="dashed-line"></div>
 
 **Research Intern**<br/>
-*@ Xtra Computing Group, National University of Singapore*
+*@ [Xtra Computing Group](https://www.xtra.science), National University of Singapore*
 
 - 2023.8 - 2024.1
 - Language models and prompting
@@ -58,7 +58,7 @@ If you’re curious about me beyond academics, feel free to explore my [blog](ht
 <div class="dashed-line"></div>
 
 **Research Intern**<br/>
-*@ Storage Research Group, Tsinghua University*
+*@ [Storage Research Group](https://storage.cs.tsinghua.edu.cn), Tsinghua University*
 
 - 2022.1 - 2023.3
 - User-space scheduling in HTAP systems
