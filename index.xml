@@ -16,14 +16,14 @@ Education University of California, San Diego Master in Computer Science and Eng
 &lt;h2 id="experience">Experience&lt;/h2>
 &lt;!-- &lt;div class="card"> -->
 &lt;p>&lt;strong>Research Intern&lt;/strong>&lt;br/>
-&lt;em>@ UC San Diego&lt;/em>&lt;/p>
+&lt;em>@ &lt;a href="https://z-lab.ai">Z Lab&lt;/a> UC San Diego&lt;/em>&lt;/p>
 &lt;ul>
 &lt;li>2025.2 - now&lt;/li>
 &lt;li>Efficient machine learning&lt;/li>
 &lt;/ul>
 &lt;div class="dashed-line">&lt;/div>
 &lt;p>&lt;strong>Research Intern&lt;/strong>&lt;br/>
-&lt;em>@ Xtra Computing Group, National University of Singapore&lt;/em>&lt;/p>
+&lt;em>@ &lt;a href="https://www.xtra.science">Xtra Computing Group&lt;/a>, National University of Singapore&lt;/em>&lt;/p>
 &lt;ul>
 &lt;li>2023.8 - 2024.1&lt;/li>
 &lt;li>Language models and prompting&lt;/li>
@@ -37,7 +37,7 @@ Education University of California, San Diego Master in Computer Science and Eng
 - Vulnerability mining in IoT devices -->
 &lt;div class="dashed-line">&lt;/div>
 &lt;p>&lt;strong>Research Intern&lt;/strong>&lt;br/>
-&lt;em>@ Storage Research Group, Tsinghua University&lt;/em>&lt;/p>
+&lt;em>@ &lt;a href="https://storage.cs.tsinghua.edu.cn">Storage Research Group&lt;/a>, Tsinghua University&lt;/em>&lt;/p>
 &lt;ul>
 &lt;li>2022.1 - 2023.3&lt;/li>
 &lt;li>User-space scheduling in HTAP systems&lt;/li>
