@@ -6,54 +6,36 @@ Education University of California, San Diego Master in Computer Science and Eng
 &lt;h2 id="education">Education&lt;/h2>
 &lt;!-- &lt;div class="card"> -->
 &lt;p>&lt;strong>University of California, San Diego&lt;/strong>&lt;br/>
-&lt;em>Master in Computer Science and Engineering&lt;/em>&lt;/p>
+Master in Computer Science and Engineering&lt;/p>
 &lt;p>2024.9 - expected 2026&lt;/p>
 &lt;div class="dashed-line">&lt;/div>
 &lt;p>&lt;strong>Tsinghua University&lt;/strong>&lt;br/>
-&lt;em>B.Eng. in Computer Science and Technology&lt;/em>&lt;/p>
+B.Eng. in Computer Science and Technology&lt;/p>
 &lt;p>2019.8 - 2024.6&lt;/p>
 &lt;!-- &lt;/div> -->
 &lt;h2 id="experience">Experience&lt;/h2>
 &lt;!-- &lt;div class="card"> -->
 &lt;p>&lt;strong>Research Intern&lt;/strong>&lt;br/>
-&lt;em>@ &lt;a href="https://z-lab.ai">Z Lab&lt;/a> UC San Diego&lt;/em>&lt;/p>
+@ &lt;a href="https://z-lab.ai">Z Lab&lt;/a>, UC San Diego&lt;/p>
 &lt;ul>
 &lt;li>2025.2 - now&lt;/li>
 &lt;li>Efficient machine learning&lt;/li>
 &lt;/ul>
 &lt;div class="dashed-line">&lt;/div>
 &lt;p>&lt;strong>Research Intern&lt;/strong>&lt;br/>
-&lt;em>@ &lt;a href="https://www.xtra.science">Xtra Computing Group&lt;/a>, National University of Singapore&lt;/em>&lt;/p>
+@ &lt;a href="https://www.xtra.science">Xtra Computing Group&lt;/a>, National University of Singapore&lt;/p>
 &lt;ul>
 &lt;li>2023.8 - 2024.1&lt;/li>
 &lt;li>Language models and prompting&lt;/li>
 &lt;li>Federated learning&lt;/li>
 &lt;/ul>
-&lt;!-- Advised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) -->
-&lt;!-- &lt;div class="dashed-line">&lt;/div>
-**Intern**&lt;br/>
-*@ Qihoo 360*
-- 2023.7
-- Vulnerability mining in IoT devices -->
 &lt;div class="dashed-line">&lt;/div>
 &lt;p>&lt;strong>Research Intern&lt;/strong>&lt;br/>
-&lt;em>@ &lt;a href="https://storage.cs.tsinghua.edu.cn">Storage Research Group&lt;/a>, Tsinghua University&lt;/em>&lt;/p>
+@ &lt;a href="https://storage.cs.tsinghua.edu.cn">Storage Research Group&lt;/a>, Tsinghua University&lt;/p>
 &lt;ul>
 &lt;li>2022.1 - 2023.3&lt;/li>
 &lt;li>User-space scheduling in HTAP systems&lt;/li>
 &lt;/ul>
-&lt;!-- Advised by [Prof. Youyou Lu](https://storage.cs.tsinghua.edu.cn/~lu/) -->
-&lt;!-- &lt;div class="dashed-line">&lt;/div>
-**Research Intern**&lt;br/>
-*@ Institute of Trustworthy Networks and Systems, Tsinghua University*
-- 2020.9 - 2021.3
-- Indoor positioning with Wi-Fi NICs -->
-&lt;!-- Advised by [Prof. Jiliang Wang](http://tns.thss.tsinghua.edu.cn/~jiliang/) -->
-&lt;!-- &lt;/div> -->
-&lt;!-- ## Publications -->
-&lt;!-- # Interests -->
-&lt;!-- ## Selected Projects
-An exhaustive list of all my noteworthy projects can be found on my [blog](https://liang2kl.github.io/blog/about#项目). -->
 &lt;h2 id="skills">Skills&lt;/h2>
 &lt;p>&lt;strong>Programming Languages&lt;/strong> &lt;br/> C/C++, CUDA, Python, Swift, Rust, Go, TypeScript, JavaScript, Bash, SQL, VHDL, SystemVerilog&lt;/p>
 &lt;p>&lt;strong>Frameworks&lt;/strong> &lt;br/> PyTorch, UIKit, SwiftUI, React, Django, Flask, Gin&lt;/p>
