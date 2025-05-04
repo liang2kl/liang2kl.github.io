@@ -13,14 +13,14 @@ If you’re curious about me beyond academics, feel free to explore my [blog](ht
 <!-- <div class="card"> -->
 
 **University of California, San Diego**<br/>
-*Master in Computer Science and Engineering*
+Master in Computer Science and Engineering
 
 2024.9 - expected 2026
 
 <div class="dashed-line"></div>
 
 **Tsinghua University**<br/>
-*B.Eng. in Computer Science and Technology*
+B.Eng. in Computer Science and Technology
 
 2019.8 - 2024.6
 
@@ -31,7 +31,7 @@ If you’re curious about me beyond academics, feel free to explore my [blog](ht
 <!-- <div class="card"> -->
 
 **Research Intern**<br/>
-*@ [Z Lab](https://z-lab.ai) UC San Diego*
+@ [Z Lab](https://z-lab.ai), UC San Diego
 
 - 2025.2 - now
 - Efficient machine learning
@@ -39,52 +39,19 @@ If you’re curious about me beyond academics, feel free to explore my [blog](ht
 <div class="dashed-line"></div>
 
 **Research Intern**<br/>
-*@ [Xtra Computing Group](https://www.xtra.science), National University of Singapore*
+@ [Xtra Computing Group](https://www.xtra.science), National University of Singapore
 
 - 2023.8 - 2024.1
 - Language models and prompting
 - Federated learning
 
-<!-- Advised by [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) -->
-
-<!-- <div class="dashed-line"></div>
-
-**Intern**<br/>
-*@ Qihoo 360*
-
-- 2023.7
-- Vulnerability mining in IoT devices -->
-
 <div class="dashed-line"></div>
 
 **Research Intern**<br/>
-*@ [Storage Research Group](https://storage.cs.tsinghua.edu.cn), Tsinghua University*
+@ [Storage Research Group](https://storage.cs.tsinghua.edu.cn), Tsinghua University
 
 - 2022.1 - 2023.3
 - User-space scheduling in HTAP systems
-
-<!-- Advised by [Prof. Youyou Lu](https://storage.cs.tsinghua.edu.cn/~lu/) -->
-
-<!-- <div class="dashed-line"></div>
-
-**Research Intern**<br/>
-*@ Institute of Trustworthy Networks and Systems, Tsinghua University*
-
-- 2020.9 - 2021.3
-- Indoor positioning with Wi-Fi NICs -->
-
-<!-- Advised by [Prof. Jiliang Wang](http://tns.thss.tsinghua.edu.cn/~jiliang/) -->
-
-<!-- </div> -->
-
-<!-- ## Publications -->
-
-<!-- # Interests -->
-
-
-<!-- ## Selected Projects
-
-An exhaustive list of all my noteworthy projects can be found on my [blog](https://liang2kl.github.io/blog/about#项目). -->
 
 ## Skills
 
