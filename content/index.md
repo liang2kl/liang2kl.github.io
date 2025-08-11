@@ -2,11 +2,15 @@
 title: Yesheng Liang
 ---
 
+<h1 class="post-title">Yesheng Liang</h1>
+
 <!-- ## About -->
 
 I am Yesheng Liang (梁业升), a master student at [CSE, UC San Diego](https://cse.ucsd.edu). I received my Bachelor's degree in Computer Science and Technology from [Tsinghua University](https://www.tsinghua.edu.cn/en/). I like building interesting applications, as well as the lower-level systems that support them. I'm currently working on efficient machine learning systems with [Prof. Zhijian Liu](https://zhijianliu.com).
 
-If you’re curious about me beyond academics, feel free to explore my [blog](https://liang2kl.github.io/blog) (in Chinese).
+<div class="top-spaced"></div>
+
+If you’re curious about me beyond academics, feel free to check out my [blog](https://liang2kl.github.io/blog) (in Chinese), or the [photo gallery](https://liang2kl.github.io/blog/gallery/).
 
 ## Education
 
@@ -15,14 +19,14 @@ If you’re curious about me beyond academics, feel free to explore my [blog](ht
 **University of California, San Diego**<br/>
 Master in Computer Science and Engineering
 
-2024.9 - expected 2026
+<div class="top-spaced bottom-spaced2">[2024.9 - expected 2026]</div>
 
-<div class="dashed-line"></div>
+<!-- <div class="dashed-line"></div> -->
 
 **Tsinghua University**<br/>
 B.Eng. in Computer Science and Technology
 
-2019.8 - 2024.6
+<div class="top-spaced bottom-spaced2">[2019.8 - 2024.6]</div>
 
 <!-- </div> -->
 
@@ -30,36 +34,35 @@ B.Eng. in Computer Science and Technology
 
 <!-- <div class="card"> -->
 
-**Research Intern**<br/>
-@ [Z Lab](https://z-lab.ai), UC San Diego
+**Research Intern** @ [Z Lab](https://z-lab.ai), UC San Diego
 
-- 2025.2 - now
-- Efficient machine learning
+[2025.2 - now]
 
-<div class="dashed-line"></div>
+<div class="top-spaced bottom-spaced2">Efficient machine learning</div>
 
-**Research Intern**<br/>
-@ [Xtra Computing Group](https://www.xtra.science), National University of Singapore
+<!-- <div class="dashed-line"></div> -->
 
-- 2023.8 - 2024.1
-- Language models and prompting
-- Federated learning
+**Research Intern** @ [Xtra Computing Group](https://www.xtra.science), National University of Singapore
 
-<div class="dashed-line"></div>
+[2023.8 - 2024.1]
 
-**Research Intern**<br/>
-@ [Storage Research Group](https://storage.cs.tsinghua.edu.cn), Tsinghua University
+<div class="top-spaced bottom-spaced2">Language models, prompting, and federated learning</div>
 
-- 2022.1 - 2023.3
-- User-space scheduling in HTAP systems
+<!-- <div class="dashed-line"></div> -->
 
-## Skills
+**Research Intern** @ [Storage Research Group](https://storage.cs.tsinghua.edu.cn), Tsinghua University
+
+[2022.1 - 2023.3]
+
+<div class="top-spaced bottom-spaced2">User-space scheduling in HTAP systems</div>
+
+<!-- ## Skills
 
 **Programming Languages** <br/> C/C++, CUDA, Python, Swift, Rust, Go, TypeScript, JavaScript, Bash, SQL, VHDL, SystemVerilog
 
 **Frameworks** <br/> PyTorch, UIKit, SwiftUI, React, Django, Flask, Gin
 
-**Tools** <br/> Git, LaTeX, Docker, Make, CMake, Bazel
+**Tools** <br/> Git, LaTeX, Docker, Make, CMake, Bazel -->
 
 <style>
 .post {
@@ -67,13 +70,18 @@ B.Eng. in Computer Science and Technology
     margin-top: 0 !important;
 }
 h2 {
-    margin-top: 1.5em !important;
+    /* margin-top: 1.5em !important;
     margin-bottom: .5em !important;
-    color: black;
-    background-color: #23B0FF;
+    color: var(--background);
+    background-color: var(--accent);
     display:inline-block;
     padding-left: 3em;
-    padding-right: 0.1em;
+    padding-right: 0.1em; */
+    margin-top: 1.5em !important;
+    color: var(--accent);
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    text-underline-offset: 3.2px;
 }
 .card {
     padding: 20px;
@@ -85,27 +93,42 @@ h2 {
     padding-left: calc(25vw - 25%);
     padding-right: calc(25vw - 25%); */
 }
-/* .card > :last-child {
-    margin-bottom: 0;
-}
-.card > :first-child {
-    margin-top: 0;
-}
-.card:not(:last-child) {
-    margin-bottom: 20px;
-}
-.card > p {
-    margin-bottom: 0;
-} */
 
-.dashed-line {
-  position: relative;
-  border-bottom: 2px dashed #ffffff33; /* dashed line */
+.top-spaced {
+    margin-top: 10px !important;
 }
+
+.bottom-spaced {
+    margin-bottom: 10px !important;
+}
+
+.top-spaced2 {
+    margin-top: 20px !important;
+}
+
+.bottom-spaced2 {
+    margin-bottom: 20px !important;
+}
+
+/* .dashed-line {
+  position: relative;
+  border-bottom: 2px dashed rgba(var(--foreground), 0.8);
+} */
 
 .hanchor {
     display: none;
 }
 
+p {
+    margin: 0 0 !important
+}
+
+h1 {
+    font-weight: 800;
+}
+
+h2 {
+    font-weight: 500;
+}
 </style>
 
