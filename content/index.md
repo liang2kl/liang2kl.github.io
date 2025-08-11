@@ -64,8 +64,8 @@ B.Eng. in Computer Science and Technology
 
 <style>
 .post {
-    padding-top: 0 !important;
-    margin-top: 0 !important;
+    /* padding-top: 0 !important; */
+    /* margin-top: 0 !important; */
 }
 h2 {
     /* margin-top: 1.5em !important;
