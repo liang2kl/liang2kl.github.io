@@ -2,8 +2,6 @@
 title: Yesheng Liang
 ---
 
-<h1 class="post-title">Yesheng Liang</h1>
-
 <!-- ## About -->
 
 I am Yesheng Liang (梁业升), a master student at [CSE, UC San Diego](https://cse.ucsd.edu). I received my Bachelor's degree in Computer Science and Technology from [Tsinghua University](https://www.tsinghua.edu.cn/en/). I like building interesting applications, as well as the lower-level systems that support them. I'm currently working on efficient machine learning systems with [Prof. Zhijian Liu](https://zhijianliu.com).
